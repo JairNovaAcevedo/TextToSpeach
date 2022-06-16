@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tts_active">Listo!</string>
+    <string name="tts_no_active">No disponible :(</string>
+    <string name="advertencia_campo">Introduzca un texto!</string>
+    <string name="button_play">Play</string>
+    <string name="hint_message">Escibe un mensaje</string>
+</resources>
